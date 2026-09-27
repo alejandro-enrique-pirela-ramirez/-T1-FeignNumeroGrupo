@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pe.edu.cibertec</groupId>
-    <artifactId>T1-FeignNumeroGrupo</artifactId>
+    <artifactId>T1-FeignGrupo2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>T1-FeignNumeroGrupo</name>
-    <description>T1-FeignNumeroGrupo</description>
+    <name>T1-FeignGrupo2</name>
+    <description>T1-FeignGrupo2</description>
     <properties>
         <java.version>25</java.version>
         <spring-cloud.version>2025.1.3</spring-cloud.version>
